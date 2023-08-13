@@ -1,7 +1,7 @@
 # Brain Tumor Detection using EfficientNetB2
 
 ## Project Overview
-The ""Brain Tumor Computer Vision" project aimed to develop an accurate and efficient computer vision solution for detecting brain tumors in medical images. By leveraging the power of EfficientNetB2, a state-of-the-art convolutional neural network architecture, along with transfer learning techniques, this project provided accurate diagnoses and assisted medical professionals in identifying potential brain tumors.
+The "Brain Tumor Computer Vision" project aimed to develop an accurate and efficient computer vision solution for detecting brain tumors in medical images. By leveraging the power of EfficientNetB2, a state-of-the-art convolutional neural network architecture, along with transfer learning techniques, this project provided accurate diagnoses and assisted medical professionals in identifying potential brain tumors.
 
 ## Key Objectives
 - Implemented a deep learning model for brain tumor detection using the EfficientNetB2 architecture.
