@@ -24,6 +24,9 @@ The ""Brain Tumor Computer Vision" project aimed to develop an accurate and effi
 - **Hugging Face Space:** Used for deploying and sharing the trained model.
 - **User Interface Framework:** A user-friendly interface was developed using a suitable framework (e.g., Flask, Django, or a web-based GUI library).
 
+## Deployment
+The project was deployed [here](https://huggingface.co/spaces/OnabajoMonsurat/Brain_tumor_prediction)
+
 ## Future Scope
 - The project laid the groundwork for further enhancements, such as multi-class classification for different tumor types, interpretability of model decisions, and integration with medical systems.
 - A user-friendly interface will be developed using a suitable framework (e.g., Flask, Django, or a web-based GUI library).
