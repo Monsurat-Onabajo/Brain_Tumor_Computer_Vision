@@ -22,7 +22,6 @@ The ""Brain Tumor Computer Vision" project aimed to develop an accurate and effi
 - **PyTorch:** Utilized for building and training the EfficientNetB2-based model.
 - **Transfer Learning:** Leveraged for adapting the pre-trained EfficientNetB2 to brain MRI data.
 - **Hugging Face Space:** Used for deploying and sharing the trained model.
-- **User Interface Framework:** A user-friendly interface was developed using a suitable framework (e.g., Flask, Django, or a web-based GUI library).
 
 ## Deployment
 The project was deployed [here](https://huggingface.co/spaces/OnabajoMonsurat/Brain_tumor_prediction)
